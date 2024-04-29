@@ -6,6 +6,7 @@ Features Include:
 - **Custom Login Logo:** Replace the default WordPress logo on the login page with an image from the media library. Administrators can upload their own logo to give the login page a personalized touch.
 - **Custom Logo URL:** Customize the URL to which the login logo links. Instead of redirecting users to the default WordPress.org website, administrators can specify a custom URL, such as the homepage of their site or a dedicated login page.
 - **User-Friendly Interface:** The plugin integrates seamlessly with the WordPress dashboard, providing an intuitive interface for administrators to manage login page customization settings.
+
 Overall, the STFQ Login Logo plugin offers administrators a simple yet effective way to enhance the login experience for users and align it with the branding of their WordPress site.
 
 ---
