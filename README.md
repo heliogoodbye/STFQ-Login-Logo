@@ -36,3 +36,11 @@ Overall, the STFQ Login Logo plugin offers administrators a simple yet effective
     - Visit the login page of your WordPress site to see the updated login logo.
 7. Further Customization:
     - You can further customize the appearance of the login page using CSS if needed.
+
+---
+
+## Disclaimer
+
+This WordPress plugin is provided without warranty. As the program is licensed free of charge, there is no warranty for the program, to the extent permitted by applicable law. The entire risk as to the quality and performance of the program is with you. Should the program prove defective, you assume the cost of all necessary servicing, repair, or correction.
+
+In no event unless required by applicable law or agreed to in writing will the authors or copyright holders be liable to you for damages, including any general, special, incidental, or consequential damages arising out of the use or inability to use the program (including but not limited to loss of data or data being rendered inaccurate or losses sustained by you or third parties or a failure of the program to operate with any other programs), even if such holder or other party has been advised of the possibility of such damages.
