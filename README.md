@@ -1,4 +1,7 @@
 # STFQ Login Logo
+
+**NOTE:** This plugin only works with WordPress 6.4 and above.
+
 **STFQ Login Logo** is a plugin that provides WordPress site administrators with the ability to customize the appearance and functionality of the login page.
 
 Features Include:
